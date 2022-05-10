@@ -1,0 +1,23 @@
+.image{
+   opacity: 1;
+  border-radius : 50%;
+    border: none;
+    position: relative;
+
+}
+#para1{
+    margin-left: 90px;
+    margin-top: -230px;
+    font-family: inter;
+}
+#para2{
+    margin-left: 90px;
+    font-family: inter;
+}
+#para3{
+    margin-left: 90px;
+    font-family: inter;
+}
+body{
+    background: rgba(97, 135, 152, 1);
+}

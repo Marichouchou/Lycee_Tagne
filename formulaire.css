@@ -1,0 +1,43 @@
+body{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 20px 20px;
+    height: 80vh;
+    margin: 50px;
+}
+.formulaire{
+    border: 1px solid black;
+    background: #eeebeb;
+    width: 450px;
+    height: 90px;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+#imagearriere{
+    opacity: 0.4;
+    /* margin-left: 50px; */
+    margin-top: -40px;
+}
+.enseignant{
+    border: 1px solid black;
+    background: #eeebeb;
+    width: 500px;
+    height: 180px;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: -600px;
+    margin-left: 700px;
+}
+.retour{
+    padding: 15px;
+    width: 120px;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 300px;
+    background: #eeebeb;
+    font-size: 25px;
+}
