@@ -1,0 +1,23 @@
+.ENTETE{
+display: flex;
+gap: 10px;
+
+}
+.nn{
+     position: relative;
+    top: 10px;
+    display: none;
+}
+
+.but
+{
+    display: flex;
+    /* border: 2px solid green; */
+    /* width: 5%; */
+}
+.all{
+    display: flex;
+}
+.sidenav{
+display: none;
+}
