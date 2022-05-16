@@ -1,0 +1,127 @@
+.bordure{
+    position: absolute;
+width: 90%;
+height: 90%;
+border: 2px solid beige;
+background: #FFFFFF;
+border-radius: 50px;
+left: 60px;
+}
+.text1{
+    
+position: absolute;
+height: 79px;
+left: 370px;
+top: -10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 79px;
+/* identical to box height */
+
+text-align: center;
+text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #000000;
+
+
+}
+.img{
+position: absolute;
+left: 259px;
+top: 40px;
+opacity: 0.2;
+transform: scale(1.2);
+}
+.rectangle1{
+    position: absolute;
+width: 194px;
+height: 319px;
+left: 252px;
+top: 90px;
+
+background: #EEEBEB;
+border-radius: 20px;
+
+}
+.rectangle2{
+    
+box-sizing: border-box;
+
+position: relative;
+width: 444px;
+height: 319px;
+left: 390px;
+top: 85px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 20px;
+
+}
+.bordure1{
+    box-sizing: border-box;
+    position: relative;
+    width: 354px;
+    height: 45px;
+    left: 34px;
+    top: 25px;
+    background: #EEEBEB;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.bordure2{
+    box-sizing: border-box;
+    cursor: pointer;
+    position: absolute;
+    width: 354px;
+    height: 45px;
+    left: 34px;
+    top: 89px;
+    background: #EEEBEB;
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
+.bordure3{
+    cursor: pointer;
+    box-sizing: border-box;
+    position: absolute;
+    width: 354px;
+    height: 45px;
+    left: 34px;
+    top: 150px;
+    background: #EEEBEB;
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
+.bordure4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 354px;
+    height: 45px;
+    left: 34px;
+    top: 210px;
+    cursor: pointer;
+background: #EEEBEB;
+border: 1px solid #000000;
+border-radius: 20px;
+}
+.footer{
+    /* Rectangle 11 */
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 131px;
+    height: 44px;
+    left: 551px;
+    top: 488px;
+    background: #EEEBEB;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    cursor: pointer;
+}
