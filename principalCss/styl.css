@@ -1,0 +1,45 @@
+/* navbar bordure */
+.v135_22 {
+    width: 100%;
+    height: 220px;
+    background: rgba(96,135,151,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 2px;
+    border: 1px solid rgba(0,0,0,1);
+    overflow: hidden;
+  }
+  .float-sm-start{
+    position: absolute;
+    display: flex;
+    margin-top: -265px;
+    font-size: 38px;
+  }
+.float-start {
+    width: 308px;
+    height: 312px;
+    background: url("logo1.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 11px;
+    left: 58px;
+    border-radius: 50%;
+  }
+  .float-end{
+      position: relative;
+  }
+  .logotext{
+    text-align: left !important;
+    position: absolute;
+    margin-top: -121px;
+    margin-left: 38px;
+    font-size: 12px;
+  }
+  .logotext2 {
+    text-align: left !important;
+    position: absolute;
+    margin-top: -105px;
+    margin-left: 19px;
+    font-size: 12px;
+  }
