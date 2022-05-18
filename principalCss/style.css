@@ -171,7 +171,7 @@ body {
 }
 .v135_38 {
   width: 100%;
-  height: 639px;
+  height: 675px;
   background: rgba(97,135,152,1);
   opacity: 1;
   position: absolute;
@@ -494,3 +494,52 @@ a{
   }
 }
 
+.name3{
+  position: absolute;
+width: 487px;
+height: 145px;
+left: 566px;
+top: 362px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #2B5D74;
+}
+.name4{
+
+position: absolute;
+width: 572px;
+height: 87px;
+left: 566px;
+top: 592px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #2B5D74;
+
+
+}
+.name5{
+  position: absolute;
+width: 677px;
+height: 87px;
+left: 566px;
+top: 798px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #2B5D74;
+
+
+}
